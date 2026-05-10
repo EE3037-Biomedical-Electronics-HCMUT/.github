@@ -13,10 +13,9 @@ In this phase, we utilize a pre-built commercial module to focus on system integ
 
 ### 2. Custom PCB Design (Component-Level)
 To dive deeper into the hardware engineering and signal conditioning, we engineered our own circuit board from scratch without relying on pre-made sensor modules.
-* **Core Components:** Built using high-precision amplifiers, specifically the **INA128PA** (Instrumentation Amplifier) and **OPA2134PA** (High-Performance Audio Operational Amplifier) to capture and filter the microvolt-level muscle signals.
-* **Hardware:** Custom-designed Printed Circuit Board (PCB).
+* **Core Components:** Built using high-precision amplifiers, specifically the **INA128PA** (Instrumentation Amplifier) and **OPA2134PA** (High-Performance Audio Operational Amplifier).
+* 🖨️ **[Hardware Repository](https://github.com/EE3037-Biomedical-Electronics-HCMUT/emg-custom-pcb-hardware):** Contains our custom PCB schematics, board layouts, Gerber files.
+* 💻 **[Firmware Repository](https://github.com/EE3037-Biomedical-Electronics-HCMUT/emg-custom-pcb-firmware):** Contains the source code for signal acquisition and processing.
 
 ## 👥 The Team
 This project is proudly researched, designed, and developed by our 3-member team. We are passionate about the intersection of electronics, PCB design, and biomedical applications.
-
----
